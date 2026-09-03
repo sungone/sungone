@@ -40,9 +40,9 @@
 
 ---
 
-## 📝 Notion
+## 📓 Study
 
-### 📘 C# & .NET Study Notes
+### 💻 C# & .NET Study Notes
 
 C#과 .NET 생태계를 학습하며 개념, 예제 코드, 핵심 내용을 정리한 학습 노트입니다.
 
@@ -50,7 +50,7 @@ C#과 .NET 생태계를 학습하며 개념, 예제 코드, 핵심 내용을 정
 
 [![Notion](https://img.shields.io/badge/Notion-C%23_%26_.NET_Study_Notes-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/3d09dfc86f4d804e8702ff0fc461fd9f?v=3d09dfc86f4d801da59a000cec9ca37c&source=copy_link)
 
-### 💻 CS Study Notes
+### 📘 CS Study Notes
 
 Computer Science의 핵심 개념과 개발에 필요한 기초 지식을 학습하고 정리합니다.
 
