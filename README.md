@@ -18,13 +18,12 @@
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ### Client & UI
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 ### Database
 
@@ -50,6 +49,15 @@ C#과 .NET 생태계를 학습하며 개념, 예제 코드, 핵심 내용을 정
 `C#` · `.NET` · `ASP.NET Core` · `EF Core` · `WPF`
 
 [![Notion](https://img.shields.io/badge/Notion-C%23_%26_.NET_Study_Notes-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/3d09dfc86f4d804e8702ff0fc461fd9f?v=3d09dfc86f4d801da59a000cec9ca37c&source=copy_link)
+
+### 💻 CS Study Notes
+
+Computer Science의 핵심 개념과 개발에 필요한 기초 지식을 학습하고 정리합니다.
+
+`Data Structure` · `Algorithm` · `Operating System` · `Network` · `Database` · `Computer Architecture` · `Design Pattern`
+
+[![Notion](https://img.shields.io/badge/Notion-CS_Study_Notes-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/3d09dfc86f4d80d6a765db9ebf455d13?v=1029dfc86f4d83639063882a4a3c3608&source=copy_link)
+
 ---
 
 ## 📫 Contact
