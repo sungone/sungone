@@ -6,11 +6,17 @@
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,python,unreal,git,notion,visualstudio" />
 </p>
+
+---
+
+## 📁 Portfolio
+
+[![Notion](https://img.shields.io/badge/Notion-Protfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/portfolio-3d29dfc86f4d80c7a321f3ffc0350253?source=copy_link)
 
 ---
 
