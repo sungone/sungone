@@ -9,7 +9,7 @@
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unreal,dotnet,docker,git,notion,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,unreal,git,notion,visualstudio" />
 </p>
 
 ---
