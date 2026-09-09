@@ -22,9 +22,16 @@
 
 ## 🖥️ Project
 
+### 💻 CPS / PHM Project
+
+### 💻 Machine Vision Project
+
+### 💻 SFaaS Project
+
+### 💻 Digital Twin Project
+
+
 ### 💻 Game Development Project : TU-World
-
-
 
 ---
 
