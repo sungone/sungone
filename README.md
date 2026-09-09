@@ -56,17 +56,17 @@
 
 ## 📓 Study
 
-### 📘 Language & Framework Study Notes
+### 📘 Language & Framework Study Note
 
 `C#` · `.NET`
 
-[![Notion](https://img.shields.io/badge/Notion-C%23_%26_.NET_Study_Notes-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/3d09dfc86f4d804e8702ff0fc461fd9f?v=3d09dfc86f4d801da59a000cec9ca37c&source=copy_link)
+[![Notion](https://img.shields.io/badge/Notion-Language_&_Framework_Note-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/3d09dfc86f4d804e8702ff0fc461fd9f?v=3d09dfc86f4d801da59a000cec9ca37c&source=copy_link)
 
-### 📘 CS Study Notes
+### 📘 CS Study Note
 
 `Data Structure` ·  `Operating System` · `Network` · `Database` · `Computer Architecture` · `Design Pattern`
 
-[![Notion](https://img.shields.io/badge/Notion-CS_Study_Notes-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/3d09dfc86f4d80d6a765db9ebf455d13?v=1029dfc86f4d83639063882a4a3c3608&source=copy_link)
+[![Notion](https://img.shields.io/badge/Notion-CS_Study_Note-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/3d09dfc86f4d80d6a765db9ebf455d13?v=1029dfc86f4d83639063882a4a3c3608&source=copy_link)
 
 ---
 
