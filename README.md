@@ -6,6 +6,19 @@
 
 ---
 
+## 📁 Portfolio
+
+[![Notion](https://img.shields.io/badge/Notion-Protfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/portfolio-3d29dfc86f4d80c7a321f3ffc0350253?source=copy_link)
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sungwon000604@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+---
 
 ## 🛠 Tech Stack
 
@@ -33,45 +46,3 @@
 
 ---
 
-## 📁 Portfolio
-
-[![Notion](https://img.shields.io/badge/Notion-Protfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/portfolio-3d29dfc86f4d80c7a321f3ffc0350253?source=copy_link)
-
----
-
-## 🖥️ Project
-
-### 💻 CPS / PHM Project
-
-### 💻 Machine Vision Project
-
-### 💻 SFaaS Project
-
-### 💻 Digital Twin Project
-
-
-### 💻 Game Development Project : TU-World
-
----
-
-## 📓 Study
-
-### 📘 Language & Framework Study Note
-
-`C#` · `.NET`
-
-[![Notion](https://img.shields.io/badge/Notion-Language_&_Framework_Note-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/3d09dfc86f4d804e8702ff0fc461fd9f?v=3d09dfc86f4d801da59a000cec9ca37c&source=copy_link)
-
-### 📘 CS Study Note
-
-`Data Structure` ·  `Operating System` · `Network` · `Database` · `Computer Architecture` · `Design Pattern`
-
-[![Notion](https://img.shields.io/badge/Notion-CS_Study_Note-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/3d09dfc86f4d80d6a765db9ebf455d13?v=1029dfc86f4d83639063882a4a3c3608&source=copy_link)
-
----
-
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sungwon000604@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
