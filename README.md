@@ -1,10 +1,4 @@
-## 👋 Hi, I'm sungwon
 
-제조 현장의 데이터를 소프트웨어와 연결하는 개발자를 목표로 공부하고 있습니다.  
-**MES · HMI · SCADA · Smart Factory · Backend** 분야에 관심이 있으며,  
-설비 데이터 수집부터 Backend, Database, Monitoring까지 이어지는 시스템 구조를 학습하고 있습니다.
-
----
 
 ## 📁 Portfolio
 
